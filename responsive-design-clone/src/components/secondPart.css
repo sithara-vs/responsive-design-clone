@@ -1,0 +1,48 @@
+
+  .second{
+    background-color: rgb(240, 240, 240);
+    height:100vh
+  }
+  
+  .heading2 h1{
+    display:flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* padding-left:60px; */
+    font-size: 40px;
+    padding-top:20px
+  }
+  .Lorem{
+    padding-left:600px;
+    font-style: italic;
+    color:gray;
+  }
+  .EComm{
+    padding-top:150px;
+  padding-left: 100px;
+  /* border:1px solid cadetblue; */
+  width:300px;
+  }
+  .Image1{
+    height:100px;
+  }
+  .Lorem2{
+    
+    font-style: italic;
+    color:gray;
+  }
+  .order{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+     
+
+      }
+  
+  
+      .Section{
+        padding-top:150px;
+          height:300px;
+          width: 300px;
+            /* border:1px solid blue   */
+        }
